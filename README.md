@@ -1,6 +1,6 @@
 # Photovoltaic Wind Energy
 
-Deepmaterial provides the wind turbine industry with bonding, sealing, damping and reinforcement solutions from foundation to blade tip.
+[Deepmaterial Korea](https://deepmaterialkr.com) provides the wind turbine industry with bonding, sealing, damping and reinforcement solutions from foundation to blade tip.
 
 The global renewable energy market is growing rapidly due to the need for alternative energy sources to replace traditional energy sources with limited supplies. Innovation is at the forefront of this growth, while maintaining the safety and cost-effectiveness of new technologies.
 
